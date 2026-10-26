@@ -66,7 +66,7 @@ export default function Navbar() {
                     </svg>
                 </button>
                 <div className="flex items-center gap-3">
-                    <p className="font-bold">ACME</p>
+                    <p className="font-bold">ACMB</p>
                 </div>
             </div>
             <ul className="hidden items-center gap-4 md:flex">
